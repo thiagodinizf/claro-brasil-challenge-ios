@@ -8,16 +8,17 @@ O objetivo deste desafio é avaliar a competência técnica dos candidatos a des
 Especificações Técnicas
 -------------
 
-**Plataforma suportada:** iOS 10.0 +
-**Linguagem:** Swift 4.0
-**Dispositivos:** iPhone e iPad
-**Idioma de escrita do código:** Inglês
-**Idiomas do app:** Inglês e Português (deve adaptar-se de acordo com o idioma do device do usuário)
+- **Plataforma suportada:** iOS 10.0 +
+- **Linguagem:** Swift 4.0
+- **Dispositivos:** iPhone e iPad
+- **Idioma de escrita do código:** Inglês
+- **Idiomas do app:** Inglês e Português (deve adaptar-se de acordo com o idioma do device do usuário)
 
 ----------
 
 Requisitos do Produto
 -------------
+
 #### Funcionalidades
 
  - Listagem de filmes favoritados do usuário (persistidos)
@@ -38,8 +39,9 @@ Requisitos do Produto
  - Layout com foco nos iPhones (todos os tamanhos incluindo o iPhone X)
  - Orientação portrait
  - Orientação landscape durante a exibição do trailer
+ - Pelo menos um teste automatizado de interface
 
-####Requisitos desejáveis
+#### Requisitos desejáveis
 
  1. Uso de animações para apresentação do conteúdo
  2. Customização da UI do AVPlayer para exibição dos trailers
@@ -47,6 +49,8 @@ Requisitos do Produto
  4. Busca automática (buscar na API conforme o usuário digita)
  5. Layout diferenciado para iPad caso aplicável
  6. Suporte a landscape nos iPhones e / ou iPads
+ 7. Testes unitários
+ 8. Integração contínua (Travis)
 
 ----------
 
@@ -67,10 +71,10 @@ Instruções de entrega
 -------------
 
  1. Crie um fork do repositório no seu GitHub
- 2. Faça o push do código desenvolvido
+ 2. Faça o push do código desenvolvido no seu Github
  3. Inclua um arquivo chamado COMMENTS.md explicando
 	 - Explicação rápida da decisão arquitetura utilizada e o porquê
 	 - Lista de bibliotecas de teceiros utilizadas
 	 - O que você melhoraria se tivesse mais tempo
 	 - Quais requisitos obrigatórios não foram entregues e o porquê 
- 4. Informe ao recrutador quando concluir o desafio
+ 4. Informe ao recrutador quando concluir o desafio junto com o link do repositório
