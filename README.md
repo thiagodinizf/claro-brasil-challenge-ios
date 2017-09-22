@@ -1,7 +1,7 @@
 Claro Brasil Challenge - iOS
 ===================
 
-O objetivo deste desafio é avaliar a competência técnica dos candidatos a desenvolvedor iOS na **Claro Brasil**. Será solicitado o desenvolvimento de um app nativo iOS em Swift que possibilitará o usuário buscar filmes, favorita-los e assistir aos trailers sem sair do app.
+O objetivo deste desafio é avaliar a competência técnica dos candidatos a desenvolvedor iOS na **Claro Brasil**. Será solicitado o desenvolvimento de um app nativo iOS em Swift que possibilitará o usuário buscar filmes, favoritá-los e assistir aos trailers sem sair do app.
 
 ----------
 
