@@ -43,14 +43,14 @@ Requisitos do Produto
 
 #### Requisitos desejáveis
 
- 1. Uso de animações para apresentação do conteúdo
- 2. Customização da UI do AVPlayer para exibição dos trailers
- 3. Utilização de recursos do iOS 11 (caso o usuário esteja no iOS 11)
- 4. Busca automática (buscar na API conforme o usuário digita)
- 5. Layout diferenciado para iPad caso aplicável
- 6. Suporte a landscape nos iPhones e / ou iPads
- 7. Testes unitários
- 8. Integração contínua (Travis)
+ - Uso de animações para apresentação do conteúdo
+ - Customização da UI do AVPlayer para exibição dos trailers
+ - Utilização de recursos do iOS 11 (caso o usuário esteja no iOS 11)
+ - Busca automática (buscar na API conforme o usuário digita)
+ - Layout diferenciado para iPad caso aplicável
+ - Suporte a landscape nos iPhones e / ou iPads
+ - Testes unitários
+ - Integração contínua (Travis)
 
 ----------
 
