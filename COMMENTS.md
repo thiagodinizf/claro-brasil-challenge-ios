@@ -7,19 +7,19 @@ Arquitetura
 
 Bibliotecas de terceiros
 
- - Alamofire - Framework para requisições assíncronas.
- - AlamofireObjectMapper - Extensão que permite a integração entre Alamofire e ObjectMapper
- - RealmSwift - Persistência local.
- - SwiftGen - Gerador de enums, facilitando o uso de assets, internacionalização, cores e storyboards. OBS: foram adicionados scripts em ruby no Build Phases do projeto para automatizar a geração dos arquivos .swift com as enums. Em desenvolvimento, é necessário a instalação de uma dependência utilizando o comando "brew install swiftgen" no Terminal (requer instalação do gerenciador de pacotes Homebrew)
- - Reusable - Extensão para reuso de células, nibs e storyboards.
- - ObjectMapper - Criação de objetos a partir de um JSON ou dicionário, permite mapeamento de-para.
- - SwiftMessages - Alertas com boas opcões de personalização.
- - Kingfisher - Download assíncrono de imagens direto para UIImageView e UIButton. Suporta cache e pós-processamento de imagem.
- - SwiftyJSON - Apesar do Swift4 nativamente manipular jsons, devido à familiaridade, foi escolhida essa biblitoteca
- - DeviceKit - Enum para ajudar na identificação do tipo de device com resolução e polegadas.
- - StatefulViewController - Biblioteca para ajudar nas transições de estado de uma tela, alterando entre loading, no-content e error.
- - SpringIndicator - Animação para indicar atividade.
- - youtube-ios-player-helper - Helper utilizado para tentar incorporar o player embed do youtube em uma webview.
+ - **Alamofire** - Framework para requisições assíncronas.
+ - **AlamofireObjectMapper** - Extensão que permite a integração entre Alamofire e ObjectMapper
+ - **RealmSwift** - Persistência local.
+ - **SwiftGen** - Gerador de enums, facilitando o uso de assets, internacionalização, cores e storyboards. OBS: foram adicionados scripts em ruby no Build Phases do projeto para automatizar a geração dos arquivos .swift com as enums. Em desenvolvimento, é necessário a instalação de uma dependência utilizando o comando "brew install swiftgen" no Terminal (requer instalação do gerenciador de pacotes Homebrew)
+ - **Reusable** - Extensão para reuso de células, nibs e storyboards.
+ - **ObjectMapper** - Criação de objetos a partir de um JSON ou dicionário, permite mapeamento de-para.
+ - **SwiftMessages** - Alertas com boas opcões de personalização.
+ - **Kingfisher** - Download assíncrono de imagens direto para UIImageView e UIButton. Suporta cache e pós-processamento de imagem.
+ - **SwiftyJSON** - Apesar do Swift4 nativamente manipular jsons, devido à familiaridade, foi escolhida essa biblitoteca
+ - **DeviceKit** - Enum para ajudar na identificação do tipo de device com resolução e polegadas.
+ - **StatefulViewController** - Biblioteca para ajudar nas transições de estado de uma tela, alterando entre loading, no-content e error.
+ - **SpringIndicator** - Animação para indicar atividade.
+ - **youtube-ios-player-helper** - Helper utilizado para tentar incorporar o player embed do youtube em uma webview.
 
 Melhorias (com mais tempo disponível)
 
