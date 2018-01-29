@@ -1,4 +1,4 @@
-Aquitetura
+Arquitetura
 
 - Por ser um projeto pequeno, a estrutura do projeto é organizada por package-by-layer, o pattern escolhido foi o MVVM, com o objetivo de diminuir ou eliminar a responsabilidade dos controllers com manipulação de dados e algumas regras de negócio, o viewmodel assume essa tarefa. 
 - As requisições são assíncronas e utilizam protocolos para o tratamento das respostas de sucesso ou falha. Quando uma classe entra em conformidade com o protocolo de respostas, é passado por parâmetro o tipo da requisição, permitindo que a controller tenha a possibidade de tratar as respostas de diferentes maneiras.
