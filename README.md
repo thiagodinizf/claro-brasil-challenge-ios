@@ -71,10 +71,10 @@ Instruções de entrega
 -------------
 
  1. ~~Crie um fork do repositório no seu GitHub~~
- 2. Faça o push do código desenvolvido no seu Github
- 3. Inclua um arquivo chamado COMMENTS.md explicando
+ 2. ~~Faça o push do código desenvolvido no seu Github~~
+ 3. ~~Inclua um arquivo chamado COMMENTS.md explicando
 	 - Explicação rápida da decisão arquitetura utilizada e o porquê
 	 - Lista de bibliotecas de teceiros utilizadas
 	 - O que você melhoraria se tivesse mais tempo
-	 - Quais requisitos obrigatórios não foram entregues e o porquê 
- 4. Informe ao recrutador quando concluir o desafio junto com o link do repositório
+	 - Quais requisitos obrigatórios não foram entregues e o porquê ~~
+ 4. ~~Informe ao recrutador quando concluir o desafio junto com o link do repositório~~
