@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  Movies
+
+  Created by Thiago Diniz on 25/01/2018.
+  Copyright © 2018 Thiago Diniz. All rights reserved.
+*/
+
+"default.try_again"="Please try again later";
+"default.request_canceled"="Request canceled";
+"default.server_error"="Service unavailable :(";
+"default.no_connection"="Oops ... no internet connection :(";
+"default.not_available"="Not available";
+"default.no_content"="No content";
+"default.not_found"="Not found on this server";
+
+"search.title"="Search";
+"search.empty"="No movies found";
+"search.bar_placeholder"="Search for movies";
+
+"favorite.title"="Favorites";
+"favorite.empty"="Add favorite movies";
+
+"movie.section_synopsis"="Synopsis";
+"movie.section_images"="Images";
+"movie.section_videos"="Trailer";
+"movie.saved"="Movie saved successfully";
+"movie.removed"="Movie successfully removed";
